@@ -3,15 +3,19 @@
 ## 📌 Introduction
 This project is a Relational Database Management System 
 (RDBMS) designed for Ercan Airport in Northern Cyprus. 
-The goal of this database is to store, manage and retrieve 
-all airport-related information in an organized and 
-efficient manner.
+In this project I designed a database for airport. 
+I created 13 tables to store information about airplanes, 
+employees, flights and tests. I chose to separate 
+technicians and traffic controllers from employees 
+because they have different roles and attributes.
 
 ## 📊 ER Diagram
 ![ER Diagram](ERD.png)
 
 ## 📐 Relational Data Model
-See [Relational Data Model](relational_model.md)
+![Relational Data Model](relational_model.png)
+<br>
+[View Relational Data Model documentation file](relational_model.md)
 
 ## 🗃️ Database Tables
 | Table | Description |
